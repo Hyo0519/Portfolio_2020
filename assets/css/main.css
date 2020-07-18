@@ -1,6 +1,8 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800");
 
+
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -28,9 +30,7 @@ body {
 	line-height: 1;
 }
 
-.p2{
-	color:white;
-}
+
 
 ol, ul {
 	list-style: none;
@@ -3291,7 +3291,7 @@ input, select, textarea {
 		}
 
 			#wrapper > section > header:before {
-				background: #292991;   
+				background: #43d9b8;   
 				content: '';
 				display: block;
 				margin-top: 1rem;
@@ -3304,7 +3304,7 @@ input, select, textarea {
 			}
 
 				#wrapper > section > header h1:before, #wrapper > section > header h2:before {
-					background: #292991;
+					background: #43d9b8;
 					content: '';
 					display: block;
 					height: 2px;
@@ -3313,7 +3313,7 @@ input, select, textarea {
 				}
 
 				#wrapper > section > header h1:after, #wrapper > section > header h2:after {
-					background: #292991;
+					background: #43d9b8;
 					border-radius: 0.5rem;
 					content: '';
 					display: block;
@@ -3880,3 +3880,7 @@ input, select, textarea {
 		}
 
 	}
+	
+	.p2{
+	color:white;
+}
