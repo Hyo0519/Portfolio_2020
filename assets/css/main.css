@@ -3887,6 +3887,9 @@ input, select, textarea {
 .intro_stg{
 	color:white;
 }
-span{
-	color:white;
+.sub_title{
+	color:black;
+}
+h2,span{
+	color:#44f2cb;
 }
